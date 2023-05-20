@@ -19,9 +19,10 @@
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
   }
   
-  button.blurbutton{
-    background-color: green;
+  button.blurButton{
+    background-color: #ce78b2;
+    filter: blur(1px);
   }
-  button.normalButton{
+  button.originalButton{
     background-color: #8b005d;
   }
